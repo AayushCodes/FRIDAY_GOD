@@ -1,0 +1,11 @@
+a:hover {
+    color: brown;
+}
+
+h1 {
+    color: aquamarine;
+    font-family: Helvetica;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 20%;
+}
